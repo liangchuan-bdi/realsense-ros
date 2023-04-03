@@ -29,6 +29,7 @@ namespace realsense2_camera
     const uint16_t RS410_MM_PID     = 0x0aff; // ASR
     const uint16_t RS400_MM_PID     = 0x0b00; // PSR
     const uint16_t RS430_MM_RGB_PID = 0x0b01; // AWGCT
+    const uint16_t RS430i_PID       = 0x0b4b; // AWGCT
     const uint16_t RS460_PID        = 0x0b03; // DS5U
     const uint16_t RS435_RGB_PID    = 0x0b07; // AWGC
     const uint16_t RS435i_RGB_PID   = 0x0B3A; // AWGC_MM

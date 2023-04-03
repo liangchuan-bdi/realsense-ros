@@ -348,6 +348,7 @@ void RealSenseNodeFactory::StartDevice()
 		case RS430_PID:
 		case RS430_MM_PID:
 		case RS430_MM_RGB_PID:
+		case RS430i_PID:
 		case RS435_RGB_PID:
 		case RS435i_RGB_PID:
 		case RS455_PID:
